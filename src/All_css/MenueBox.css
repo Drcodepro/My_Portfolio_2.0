@@ -1,0 +1,6 @@
+#menueContainer{
+    width: fit-content;
+    height: 100vh;
+    padding: 2rem;
+    background-color:#000;
+  }
