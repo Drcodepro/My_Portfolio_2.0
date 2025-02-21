@@ -1,0 +1,21 @@
+#AboutSection{
+display: flex;
+justify-content:center;
+}
+
+.AboutSecContainer{
+display: flex;
+flex-direction: column;
+gap: 1.25rem;
+width: 90%;
+}
+
+.AboutContentContainer{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.AboutContentContainer img{
+    width: 230px;
+}

@@ -1,0 +1,16 @@
+
+.line_animation_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .line_box {
+    background-color:transparent; /* Remove background color */
+  }
+  
+  path {
+    stroke: #8A8A8A; /* Line color */
+    stroke-width: 0.5; /* Line thickness */
+  }

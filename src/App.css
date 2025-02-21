@@ -1,4 +1,12 @@
 #AppContainer{
   width: 100vw;
+  height: 100vh;
   display: flex;
+  position: relative;
+  overflow-x: hidden;
+}
+
+
+@media (min-width:1000px) {
+
 }
