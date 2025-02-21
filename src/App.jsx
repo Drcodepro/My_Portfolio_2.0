@@ -2,6 +2,7 @@ import './App.css';
 import MenueBox from './component/MenueBox';
 import LandingPage from './component/LandingPage';
 import OpenMenue from "./assets/icons/OpenMenue.png";
+import { useEffect, useState } from 'react';
 import AboutSection from './component/AboutSection';
 import LineAnimation from './component/ReusableCmp/LineAnimation';
 
